@@ -1,0 +1,15 @@
+{
+  "name": "sonrpc",
+  "version": "1.0.0",
+  "description": "Minimalistic JSON-RPC framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jsonrpc",
+    "rpc"
+  ],
+  "author": "MrOnlineCoder",
+  "license": "MIT"
+}
